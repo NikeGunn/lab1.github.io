@@ -1,2 +1,2 @@
-# lab1.github.io
+# LAB FIRST REPORT...
 This my first lab from 1st seminter
